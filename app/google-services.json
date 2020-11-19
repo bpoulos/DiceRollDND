@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "981557164939",
+    "firebase_url": "https://dndusernames.firebaseio.com",
+    "project_id": "dndusernames",
+    "storage_bucket": "dndusernames.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981557164939:android:33ff096b3f226958d1cd8e",
+        "android_client_info": {
+          "package_name": "com.example.dicerolldnd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981557164939-vo1khovqug3totkt5qad0o22mgm7ouou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9QwJIAwrCMeRADTcdIWhzlk2QkNQxq40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981557164939-vo1khovqug3totkt5qad0o22mgm7ouou.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
